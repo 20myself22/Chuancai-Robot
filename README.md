@@ -15,7 +15,7 @@
 2. 用 cmd `nb run`运行机器人。run bot using `nb run` .
 3. 用 Windows shell 切换至 cq-http.exe 文件所在目录下， `.\go-cqhttp.exe`运行。
 
-## 参考文档
+## 参考文档 Reference documents
 
 1. [Nonebot2文档](https://v2.nonebot.dev/)
 2. [go-cqhttp文档](https://docs.go-cqhttp.org/)
